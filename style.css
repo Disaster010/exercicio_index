@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(50, 50, 197);
+}
+h1{
+    color: azure;
+    border: azure dashed 10px;
+}
+
+ul {
+    background-color: azure;
+    font-size: 50px;
+    color: brown;
+}
+li{
+    color:chocolate
+}
+.carro{
+    color: blue;
+}
+#cabeçalho{
+    background-color:chocolate;
+}
+.planetas h1{
+    font-size: 50px;
+    color: azure;
+}
+
+.planetas ul li {
+    color: green;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
