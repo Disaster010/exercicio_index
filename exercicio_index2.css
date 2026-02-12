@@ -1,0 +1,15 @@
+body{
+    background-color: yellow;
+}
+h1{
+    text-align: center;
+}
+.conteudo{
+   border: solid; background-color: black;
+   margin: 50% auto;
+  width: 10%;
+text-align: center;
+}
+.conteudo p{
+    color: azure;
+}
